@@ -6,3 +6,11 @@
             * Wurzeln
                 * [Theorie](/mathematik/algebra/wurzeln/theorie)
                 * [Aufgaben](/mathematik/algebra/wurzeln/aufgaben)
+    * Informatik
+        * Netzwerk
+            * MAC-Adresse
+                * [Theorie](/informatik/netzwerk/mac-adresse/theorie)
+                * [Aufgaben](/informatik/netzwerk/mac-adresse/aufgaben)
+            * IP-Adresse
+                * [Theorie](/informatik/netzwerk/ip-adresse/theorie)
+                * [Aufgaben](/informatik/netzwerk/ip-adresse/aufgaben)
