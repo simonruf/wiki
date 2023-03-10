@@ -1,7 +1,8 @@
 * **Informationen**
     * [Startseite](/)
 * **Fächer**
-    * [Mathematik](/mathematik/)
-        * [Algebra](/mathematik/algebra/)
-            * [Wurzeln](/mathematik/algebra/wurzeln/)
+    * Mathematik
+        * Algebra
+            * Wurzeln
+                * [Theorie](/mathematik/algebra/wurzeln/theorie)
                 * [Aufgaben](/mathematik/algebra/wurzeln/aufgaben)
