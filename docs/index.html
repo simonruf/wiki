@@ -17,7 +17,6 @@
 <script>
     window.$docsify = {
         name: 'Wiki',
-        subMaxLevel: 1,
         loadSidebar: true,
         sidebarDisplayLevel: 2,
         alias: {
@@ -38,7 +37,7 @@
             depth: 4,
         },
         plugins: [
-            EditOnGithubPlugin.create('https://github.com/FormulaRossa/wiki/blob/master/docs/', null, 'Seite bearbeiten'),
+            EditOnGithubPlugin.create('https://github.com/FormulaRossa/wiki/blob/master/docs/', 'https://github.com/FormulaRossa/wiki/blob/master/docs/', 'Seite bearbeiten'),
         ]
     }
 </script>
