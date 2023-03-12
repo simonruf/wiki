@@ -38,7 +38,10 @@
         plugins: [
             EditOnGithubPlugin.create('https://github.com/FormulaRossa/wiki/blob/master/docs/', 'https://github.com/FormulaRossa/wiki/blob/master/docs/', 'Seite bearbeiten'),
         ],
-        ga: 'G-E3MVMJL5K9'
+        matomo: {
+            host: 'https://matomo.leanschuler.ch',
+            id: 1,
+        },
     }
 </script>
 <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
@@ -50,7 +53,7 @@
 <script src="https://cdn.jsdelivr.net/npm/docsify-latex@0"></script>
 <!-- Sidebar Collapse -->
 <script src="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
-<!-- Google Analytics -->
-<script src="https://unpkg.com/docsify/lib/plugins/ga.min.js"></script>
+<!-- Matomo -->
+<script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/matomo.min.js"></script>
 </body>
 </html>
