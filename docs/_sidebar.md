@@ -17,3 +17,6 @@
             * [IP-Adresse](/informatik/netzwerk/ip-adresse/)
                 * [Theorie](/informatik/netzwerk/ip-adresse/theorie)
                 * [Aufgaben](/informatik/netzwerk/ip-adresse/aufgaben)
+            * [Subnetzmaske](/informatik/netzwerk/subnetzmaske/)
+                * [Theorie](/informatik/netzwerk/subnetzmaske/theorie)
+                * [Aufgaben](/informatik/netzwerk/subnetzmaske/aufgaben)

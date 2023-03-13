@@ -10,7 +10,8 @@ diese in verschiedenen Netzwerken befinden.
 
 ## Aufbau
 
-Die IP-Adresse besteht aus 4 Bytes. Jedes Byte wird durch einen Punkt getrennt. Jedes Byte kann eine Zahl zwischen 0 und
+Die IP-Adresse besteht aus 4 Bytes (32 Bits). Jedes Byte wird durch einen Punkt getrennt. Jedes Byte kann eine Zahl
+zwischen 0 und
 255 haben.
 
 > Beispiel:  
