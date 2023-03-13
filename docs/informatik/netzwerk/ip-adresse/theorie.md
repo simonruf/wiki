@@ -1,5 +1,7 @@
 # IP-Adresse
 
+## Was ist eine IP-Adresse?
+
 Die IP-Adresse ist die Adresse, welche verwendet wird, um Geräte im Netzwerk zu finden. Die IP-Adresse wird in
 jedem Netzwerk separat vergeben und kann sich deshalb von Netzwerk zu Netzwerk und von Zeit zu Zeit ändern.
 

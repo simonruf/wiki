@@ -1,16 +1,16 @@
 * **Informationen**
     * [Startseite](/)
 * **Fächer**
-    * Mathematik
-        * Algebra
-            * Wurzeln
+    * [Mathematik](/mathematik/)
+        * [Algebra](/mathematik/algebra/)
+            * [Wurzeln](/mathematik/algebra/wurzeln/)
                 * [Theorie](/mathematik/algebra/wurzeln/theorie)
                 * [Aufgaben](/mathematik/algebra/wurzeln/aufgaben)
-    * Informatik
-        * Netzwerk
-            * MAC-Adresse
+    * [Informatik](/informatik/)
+        * [Netzwerk](/informatik/netzwerk/)
+            * [MAC-Adresse](/informatik/netzwerk/mac-adresse/)
                 * [Theorie](/informatik/netzwerk/mac-adresse/theorie)
                 * [Aufgaben](/informatik/netzwerk/mac-adresse/aufgaben)
-            * IP-Adresse
+            * [IP-Adresse](/informatik/netzwerk/ip-adresse/)
                 * [Theorie](/informatik/netzwerk/ip-adresse/theorie)
                 * [Aufgaben](/informatik/netzwerk/ip-adresse/aufgaben)
