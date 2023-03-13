@@ -44,6 +44,12 @@
             hideOtherSidebarContent: true,
             depth: 4,
         },
+        pagination: {
+            previousText: 'Vorherige Seite',
+            nextText: 'Nächste Seite',
+            crossChapter: true,
+            crossChapterText: true,
+        },
         plugins: [
             EditOnGithubPlugin.create('https://github.com/FormulaRossa/wiki/blob/master/docs/', 'https://github.com/FormulaRossa/wiki/blob/master/docs/', 'Seite bearbeiten'),
         ],
@@ -60,5 +66,7 @@
 <script src="https://cdn.jsdelivr.net/npm/docsify-latex@0"></script>
 <!-- Sidebar Collapse -->
 <script src="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+<!-- Pagination -->
+<script src="https://unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 </html>
