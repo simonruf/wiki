@@ -7,3 +7,4 @@ Mathematik ist die Wissenschaft von der Zahl, Form und Grösse. Sie ist die Grun
 ## Teilgebiete
 
 * [Algebra](/mathematik/algebra/)
+* [Geometrie](/mathematik/geometrie/)
