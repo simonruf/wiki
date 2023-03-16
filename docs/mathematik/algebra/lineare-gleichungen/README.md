@@ -1,4 +1,4 @@
-# Wurzeln
+# Lineare Gleichungen
 
-* [Theorie](/mathematik/algebra/wurzeln/theorie)
-* [Aufgaben](/mathematik/algebra/wurzeln/aufgaben)
+* [Theorie](/mathematik/algebra/lineare-gleichungen/theorie)
+* [Aufgaben](/mathematik/algebra/lineare-gleichungen/aufgaben)
