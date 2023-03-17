@@ -45,5 +45,32 @@ Um dann die andere Variable zu berechnen, muss man die Zahl in eine der beiden G
 > So haben wir nun die Lösung für $x$ und $y$:
 > $$ \Big| \begin{matrix} x = 276 \\ y = - 245 \end{matrix} \Big| $$
 
+#### Das Einsetzungsverfahren (Substitutionsverfahren)
 
+Beim Einsetzungsverfahren wird eine der beiden Gleichungen in die andere eingesetzt.
+Man löst eine der Gleichung nach einer Variable auf und setzt diese dann in die andere Gleichung ein, sodass dann in der
+anderen Gleichung nur noch eine Variable übrig bleibt und man diese dann lösen kann.
+Um dann die andere Variable auch noch herauszufinden, setzt man die berechnete Zahl in eine der Gleichungen ein.
+
+?> Ob man die erste oder die zweite Gleichung in die andere einsetzt, ist egal.
+
+> Beispiel:  
+> Wir wollen dieses Gleichungssystem lösen:
+> $$ \Big| \begin{matrix} x + y = 20 \\ \frac{x}{5} + \frac{y}{6} = 30 \end{matrix} \Big| $$
+> Als Erstes lösen wir die erste Gleichung nach der Variable $x$ auf:
+> $$ x = 20 - y $$
+> Nun können wir Gleichung in die zweite Gleichung einsetzen, dass heisst das das $x$ in der zweiten Gleichung
+> durch $20 - y$ ersetzt wird:
+> $$ \frac{20 - y}{5} + \frac{y}{6} = 30 $$
+> Da wir nun nur noch eine Variable haben, können wir die Gleichung nun normal lösen:
+> $$ \frac{20 - y}{5} + \frac{y}{6} = 30 \tag*{| * 30} $$
+> $$ 120 - 6y + 5y = 900 $$
+> $$ 120 - y = 900 \tag*{| + y - 900} $$
+> $$ - 780 = y $$
+> Nun können wir die Variable $y$ in die erste Gleichung einsetzen:
+> $$ x + y = 20 $$
+> $$ x + (- 780) = 20 \tag*{| + 780} $$
+> $$ x = 800 $$
+> So haben wir nun die Lösung für $x$ und $y$:
+> $$ \Big| \begin{matrix} x = 800 \\ y = - 780 \end{matrix} \Big| $$
 
