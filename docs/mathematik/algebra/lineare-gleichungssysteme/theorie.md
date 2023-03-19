@@ -74,3 +74,25 @@ Um dann die andere Variable auch noch herauszufinden, setzt man die berechnete Z
 > So haben wir nun die Lösung für $x$ und $y$:
 > $$ \Big| \begin{matrix} x = 800 \\ y = - 780 \end{matrix} \Big| $$
 
+#### Das Additionsverfahren
+
+Beim Additionsverfahren werden die Gleichungen so multipliziert, dass eine der beiden Variablen in beiden Gleichungen
+bei der Addition
+beider Gleichungen verschwindet.
+
+> Beispiel:  
+> Wir wollen dieses Gleichungssystem lösen:
+> $$ \Big| \begin{matrix} x + y = 5 \\ 4x + 6y = 10 \end{matrix} \Big| $$
+> Wir wollen die Variable $x$ in beiden Gleichungen verschwinden lassen.  
+> Dazu multiplizieren wir die erste Gleichung mit $-4$ und die zweite Gleichung mit $1$. Das ergibt:
+> $$ \Big| \begin{matrix} - 4x - 4y = - 20 \\ 4x + 6y = 10 \end{matrix} \Big| $$
+> Wenn wir nun beide Gleichungen addieren, verschwindet die Variable $x$:
+> $$ -4x - 4y + 4x + 6y = -20 + 10 $$
+> $$ 2y = -10 $$
+> $$ y = -5 $$
+> Nun können wir die Variable $y$ in die erste Gleichung einsetzen:
+> $$ x + y = 5 $$
+> $$ x + (- 5) = 5 \tag*{| + 5} $$
+> $$ x = 10 $$
+> So haben wir nun die Lösung für $x$ und $y$:
+> $$ \Big| \begin{matrix} x = 10 \\ y = - 5 \end{matrix} \Big| $$
