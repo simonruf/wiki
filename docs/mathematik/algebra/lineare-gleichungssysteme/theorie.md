@@ -80,7 +80,7 @@ Beim Additionsverfahren werden die Gleichungen so multipliziert, dass eine der b
 bei der Addition
 beider Gleichungen verschwindet.
 
-> Beispiel:
+> Beispiel:  
 > Wir wollen dieses Gleichungssystem lösen:
 > $$ \Big| \begin{matrix} x + y = 5 \\ 4x + 6y = 10 \end{matrix} \Big| $$
 > Wir wollen die Variable $x$ in beiden Gleichungen verschwinden lassen.  
