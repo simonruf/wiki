@@ -1,9 +1,9 @@
-name: Format
+name: sitemap
 
 on: push
 
 jobs:
-  format-code:
+  build-sitemap:
     runs-on: ubuntu-latest
 
     permissions:
