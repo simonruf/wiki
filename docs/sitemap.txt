@@ -19,6 +19,7 @@ https://wiki.leanschuler.ch/mathematik/geometrie/formelsammlung/rechtwinkliges-d
 https://wiki.leanschuler.ch/mathematik/geometrie/formelsammlung/kreis
 https://wiki.leanschuler.ch/mathematik/geometrie/formelsammlung/parallelogramm
 https://wiki.leanschuler.ch/mathematik/geometrie/formelsammlung/trapez
+https://wiki.leanschuler.ch/mathematik/geometrie/formelsammlung/wuerfel
 https://wiki.leanschuler.ch/mathematik/geometrie/formelsammlung/quader
 https://wiki.leanschuler.ch/mathematik/geometrie/formelsammlung/pyramide
 https://wiki.leanschuler.ch/mathematik/geometrie/formelsammlung/zylinder
