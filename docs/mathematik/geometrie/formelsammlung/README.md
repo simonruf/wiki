@@ -9,3 +9,8 @@ den verschieden geometrischen Figuren sortiert.
 * [Rechtwinkliges Dreieck](rechtwinkliges-dreieck)
 * [Kreis](kreis)
 * [Parallelogramm](parallelogramm)
+* [Trapez](trapez)
+* [Quader](quader)
+* [Pyramide](pyramide)
+* [Zylinder](zylinder)
+* [Kegel](kegel)
