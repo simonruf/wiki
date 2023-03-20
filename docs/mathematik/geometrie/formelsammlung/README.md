@@ -1,21 +1,11 @@
 # Formelsammlung
 
-## Quadrat
+In dieser Formelsammlung werden die wichtigsten Formeln aus dem Bereich der Geometrie aufgelistet. Die Formeln sind nach
+den verschieden geometrischen Figuren sortiert.
 
-### Fläche
-
-$$ A = s^2 $$
-
-### Umfang
-
-$$ U = 4 \cdot s $$
-
-### Diagonale
-
-$$ d = s \cdot \sqrt{2} $$
-
-### Seite
-
-$$ s = \sqrt{A} $$
-$$ s = \frac{U}{4} $$
-$$ s = \frac{d}{\sqrt{2}} $$
+* [Quadrat](quadrat)
+* [Rechteck](rechteck)
+* [Dreieck](dreieck)
+* [Rechtwinkliges Dreieck](rechtwinkliges-dreieck)
+* [Kreis](kreis)
+* [Parallelogramm](parallelogramm)
