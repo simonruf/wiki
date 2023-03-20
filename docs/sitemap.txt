@@ -11,6 +11,7 @@ https://wiki.leanschuler.ch/mathematik/algebra/lineare-gleichungssysteme/
 https://wiki.leanschuler.ch/mathematik/algebra/lineare-gleichungssysteme/theorie
 https://wiki.leanschuler.ch/mathematik/algebra/lineare-gleichungssysteme/aufgaben
 https://wiki.leanschuler.ch/mathematik/geometrie/
+https://wiki.leanschuler.ch/mathematik/geometrie/formelsammlung/
 https://wiki.leanschuler.ch/mathematik/geometrie/trigonometrie/
 https://wiki.leanschuler.ch/mathematik/geometrie/trigonometrie/theorie
 https://wiki.leanschuler.ch/mathematik/geometrie/trigonometrie/aufgaben
