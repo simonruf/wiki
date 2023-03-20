@@ -13,6 +13,7 @@
                 * [Theorie](/mathematik/algebra/lineare-gleichungssysteme/theorie)
                 * [Aufgaben](/mathematik/algebra/lineare-gleichungssysteme/aufgaben)
         * [Geometrie](/mathematik/geometrie/)
+            * [Formelsammlung](/mathematik/geometrie/formelsammlung/)
             * [Trigonometrie](/mathematik/geometrie/trigonometrie/)
                 * [Theorie](/mathematik/geometrie/trigonometrie/theorie)
                 * [Aufgaben](/mathematik/geometrie/trigonometrie/aufgaben)
