@@ -1,6 +1,7 @@
 # Parallelogramm
 
 Ein Parallelogramm ist eine geometrische Figur, die durch vier Seiten und vier Ecken definiert wird.
+Immer die gegenüberliegenden Seiten sind gleich lang und sind parallel zueinander.
 
 ## Fläche
 

@@ -21,6 +21,7 @@
                 * [Kreis](/mathematik/geometrie/formelsammlung/kreis)
                 * [Parallelogramm](/mathematik/geometrie/formelsammlung/parallelogramm)
                 * [Trapez](/mathematik/geometrie/formelsammlung/trapez)
+                * [Würfel](/mathematik/geometrie/formelsammlung/wuerfel)
                 * [Quader](/mathematik/geometrie/formelsammlung/quader)
                 * [Pyramide](/mathematik/geometrie/formelsammlung/pyramide)
                 * [Zylinder](/mathematik/geometrie/formelsammlung/zylinder)

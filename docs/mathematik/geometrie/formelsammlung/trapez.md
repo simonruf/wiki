@@ -1,6 +1,7 @@
 # Trapez
 
 Ein Trapez hat vier Seiten und vier Ecken. Mindestens zwei Seiten eines Trapezes sind parallel.
+In diesen Formeln sind $a$ und $c$ die parallel zueinander liegenden Seiten.
 
 ## Mittellinie
 

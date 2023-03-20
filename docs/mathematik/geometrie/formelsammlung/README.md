@@ -10,6 +10,7 @@ den verschieden geometrischen Figuren sortiert.
 * [Kreis](kreis)
 * [Parallelogramm](parallelogramm)
 * [Trapez](trapez)
+* [Würfel](wuerfel)
 * [Quader](quader)
 * [Pyramide](pyramide)
 * [Zylinder](zylinder)

@@ -1,5 +1,7 @@
 # Kegel
 
+Ein Kegel hat als Grundfläche einen Kreis und läuft von diesem aus in eine Spitze.
+
 ## Volumen
 
 $$ V = \frac{r^2 \pi \cdot h}{3} $$

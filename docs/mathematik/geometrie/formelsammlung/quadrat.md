@@ -9,7 +9,7 @@ $$ A = s^2 $$
 
 ## Umfang
 
-$$ U = 4 \cdot s $$
+$$ U = 4s $$
 
 ## Diagonale
 
