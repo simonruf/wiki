@@ -18,6 +18,11 @@ https://wiki.leanschuler.ch/mathematik/geometrie/formelsammlung/dreieck
 https://wiki.leanschuler.ch/mathematik/geometrie/formelsammlung/rechtwinkliges-dreieck
 https://wiki.leanschuler.ch/mathematik/geometrie/formelsammlung/kreis
 https://wiki.leanschuler.ch/mathematik/geometrie/formelsammlung/parallelogramm
+https://wiki.leanschuler.ch/mathematik/geometrie/formelsammlung/trapez
+https://wiki.leanschuler.ch/mathematik/geometrie/formelsammlung/quader
+https://wiki.leanschuler.ch/mathematik/geometrie/formelsammlung/pyramide
+https://wiki.leanschuler.ch/mathematik/geometrie/formelsammlung/zylinder
+https://wiki.leanschuler.ch/mathematik/geometrie/formelsammlung/kegel
 https://wiki.leanschuler.ch/mathematik/geometrie/trigonometrie/
 https://wiki.leanschuler.ch/mathematik/geometrie/trigonometrie/theorie
 https://wiki.leanschuler.ch/mathematik/geometrie/trigonometrie/aufgaben
