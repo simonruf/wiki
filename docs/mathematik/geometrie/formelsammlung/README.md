@@ -13,5 +13,6 @@ den verschieden geometrischen Figuren sortiert.
 * [Würfel](wuerfel)
 * [Quader](quader)
 * [Pyramide](pyramide)
+* [Prisma](prisma)
 * [Zylinder](zylinder)
 * [Kegel](kegel)
