@@ -2,4 +2,4 @@
 
 ## Teilgebiete
 
-* [Netzwerk](/informatik/netzwerk/)
+* [Netzwerk](netzwerk/)
