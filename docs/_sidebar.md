@@ -24,6 +24,7 @@
                 * [Würfel](/mathematik/geometrie/formelsammlung/wuerfel)
                 * [Quader](/mathematik/geometrie/formelsammlung/quader)
                 * [Pyramide](/mathematik/geometrie/formelsammlung/pyramide)
+                * [Prisma](/mathematik/geometrie/formelsammlung/prisma)
                 * [Zylinder](/mathematik/geometrie/formelsammlung/zylinder)
                 * [Kegel](/mathematik/geometrie/formelsammlung/kegel)
             * [Trigonometrie](/mathematik/geometrie/trigonometrie/)
