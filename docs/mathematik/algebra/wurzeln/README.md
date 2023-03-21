@@ -1,4 +1,4 @@
 # Wurzeln
 
-* [Theorie](/mathematik/algebra/wurzeln/theorie)
-* [Aufgaben](/mathematik/algebra/wurzeln/aufgaben)
+* [Theorie](theorie)
+* [Aufgaben](aufgaben)

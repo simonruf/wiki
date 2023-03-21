@@ -11,5 +11,6 @@ nicht alle.
 
 ## Kapitel
 
-* [MAC-Adresse](/informatik/netzwerk/mac-adresse/)
-* [IP-Adresse](/informatik/netzwerk/ip-adresse/)
+* [MAC-Adresse](mac-adresse/)
+* [IP-Adresse](ip-adresse/)
+* [Subnetzmaske](subnetzmaske/)

@@ -2,5 +2,5 @@
 
 ## Kapitel
 
-* [Formelsammlung](/mathematik/geometrie/formelnsammlung/)
-* [Trigonometrie](/mathematik/geometrie/trigonometrie/)
+* [Formelsammlung](formelsammlung/)
+* [Trigonometrie](trigonometrie/)
