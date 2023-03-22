@@ -1,4 +1,4 @@
 # Subnetzmaske
 
-* [Theorie](/informatik/netzwerk/subnetzmaske/theorie)
-* [Aufgaben](/informatik/netzwerk/subnetzmaske/aufgaben)
+* [Theorie](theorie)
+* [Aufgaben](aufgaben)
