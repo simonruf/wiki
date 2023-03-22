@@ -15,3 +15,7 @@ $$ G = \frac{3V}{h} $$
 
 $$ h = \frac{3V}{G} $$
 $$ h = \frac{3V}{r^2 \pi} $$
+
+## Mantellinie
+
+$$ s = \sqrt{h^2 + r^2} $$
